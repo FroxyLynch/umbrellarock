@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umbrellarockgh.netlify.app/sitemap.xml

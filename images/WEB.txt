@@ -1,0 +1,20 @@
+WHERE TO PUT YOUR REAL IMAGES
+==============================
+Drop your files into this "images" folder using the exact names below,
+then open index.html and swap each placeholder src for the local path
+noted in the comment just above/below that image tag (search for
+"swap src above/below for").
+
+  images/logo.png              Site logo (header + footer)   ~80x80px, transparent bg
+  images/favicon.png           Browser tab icon              ~64x64px, square
+  images/hero.jpg              Big homepage background photo  1800px wide+
+  images/experience-1.jpg      "The Rock" card                 portrait, ~700x950px
+  images/experience-2.jpg      "Guided Experience" card        portrait, ~700x950px
+  images/experience-3.jpg      "Photography" card               portrait, ~700x950px
+  images/experience-4.jpg      "Relaxation" card                portrait, ~700x950px
+  images/private-functions.jpg "Private Functions" card        landscape, ~800x600px
+  images/accommodation.jpg     "Accommodation" card             landscape, ~800x600px
+
+Once your files are in this folder and the src attributes in index.html
+point to them (e.g. src="images/hero.jpg"), the site no longer depends
+on any internet images and will work fully offline.
